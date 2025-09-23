@@ -1,0 +1,8 @@
+# build outputs
+/build/
+/bin/
+*.o
+
+# editor settings
+.vscode/
+.DS_Store
